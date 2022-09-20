@@ -1,0 +1,13 @@
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.csproj.AssemblyReference.cache
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.csproj.SuggestedBindingRedirects.cache
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.FrmGiris.resources
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.FrmOgrenciDetay.resources
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.FrmOgretmenDetay.resources
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.Properties.Resources.resources
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.csproj.GenerateResource.cache
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.csproj.CoreCompileInputs.cache
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\bin\Debug\Not_Kayit_Sistemi1.exe.config
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\bin\Debug\Not_Kayit_Sistemi1.exe
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\bin\Debug\Not_Kayit_Sistemi1.pdb
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.exe
+C:\Users\efe38\source\repos\Not_Kayit_Sistemi1\Not_Kayit_Sistemi1\obj\Debug\Not_Kayit_Sistemi1.pdb
